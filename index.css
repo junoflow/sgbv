@@ -1,7 +1,10 @@
 h1 {
     font-size: 30pt;
-    text-align: center;
     color: #27AF38;
+}
+
+p {
+    font-size: 20px;
 }
 
 
