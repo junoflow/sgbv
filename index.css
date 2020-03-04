@@ -27,7 +27,11 @@ body {
 }
 
 footer {
-    background-color: #363633;
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    width: 100%;
+    background-color: #27AF38;
     padding: 10px;
 }
 
@@ -38,9 +42,12 @@ footer h3 {
     margin: 0 0 3px 0;
 }
 
+footer a {
+    text-decoration: none;
+}
+
 footer p {
-    text-align: left;
     color: white;
-    font-size: 10px;
+    font-size: 20px;
     margin: 0 0 0 0;
 }
