@@ -12,14 +12,44 @@ h2 {
 }
 
 p {
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .container {
-    width: 400px;
+    width: 100%;
     display: inline-block;
 }
 
+.work1 {
+    padding: 1em 0 1em 0;
+    background-image: url('img/DJ.jpg');
+    background-size: 100%;
+    background-position: center 45%;
+}
+
+.work2 {
+    padding: 1em 0 1em 0;
+    background-image: url('img/WR.jpg');
+    background-size: 100%;
+    background-position: center 45%;
+}
+
+.work3 {
+    padding: 1em 0 1em 0;
+    background-image: url('img/PD.jpg');
+    background-size: 100%;
+    background-position: center 60%;
+}
+
+.work h3 {
+    margin: 0;
+    color: white;
+}
+
+.work p {
+    margin: 1em 0;
+    color: white;
+}
 
 body {
     margin: 0;
